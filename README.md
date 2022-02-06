@@ -40,7 +40,8 @@ A command-line application that at a minimum allows the user to:
 - View employees by manager
 - Delete departments, roles, and employees (one row at a time)
 ### walkthrough video
-![employee-tracker]
+![EmployeeTrackVid](https://user-images.githubusercontent.com/92745609/152703098-151045b6-4996-4dbc-9e76-338f536739f8.gif)
+
 
  
 ## Tests
