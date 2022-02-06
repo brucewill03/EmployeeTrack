@@ -1,9 +1,8 @@
-# employee-tracker
+# Employee Track
 An application that can be launched via command line giving ability to manage a company's employees. 
 
 
-```
-## Table of Contents
+# Table of Contents
   * [Description](#description)
   * [Installation](#installation)
   * [Usage](#usage)
@@ -23,13 +22,13 @@ An application that can be launched via command line giving ability to manage a 
     ```
 - Set up test records yourself or run queries in ```seed.sql```
 - start the application by running
-    ```
+    
     node index
-    ```
+    
     or
-    ```
+    
     npm start
-    ```
+    
 
 
 ## Usage
